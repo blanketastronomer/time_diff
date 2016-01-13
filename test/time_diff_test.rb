@@ -14,7 +14,7 @@
 # You should have received a copy of the GNU Affero General Public License
 # along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
-require 'test_helper'
+require_relative 'test_helper'
 
 class TimeDiffTest < Minitest::Test
   def test_that_it_has_a_version_number
